@@ -9,6 +9,8 @@
 |Dataset|Size|Description|Source|
 |:----:|:----:|:----:|:----:|
 |[Guanaco Dataset](https://huggingface.co/datasets/JosephusCheung/GuanacoDataset) | 27808|多语言指令数据集，规模还会更新至92530| [Guanaco](https://guanaco-model.github.io/) |
-|[alpaca_chinese_dataset](https://github.com/hikariming/alpaca_chinese_dataset)|更新中|将Alpaca数据集进行机器翻译+人工校验，并补充一些对话数据|[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
+|[alpaca_chinese_dataset](https://github.com/hikariming/alpaca_chinese_dataset)|正在更新中|将Alpaca数据集进行机器翻译+人工校验，并补充一些对话数据|[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 |[alpaca-chinese-dataset](https://github.com/carbonz0/alpaca-chinese-dataset)|20465|将Alpaca数据集进行机器翻译得到|[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)|
 |[Chinese-alpaca-lora](https://github.com/LC1332/Chinese-alpaca-lora)|更新中|将Alpaca数据集进行机器翻译得到，翻译模型是gpt-3.5-turbo, 后续会结合Guanaco数据集|[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)|
+|[GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)|52k|将Alpaca数据集的prompt利用ChatGPT进行翻译，然后利用GPT-4得到中文Response|[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)|
+
